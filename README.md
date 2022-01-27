@@ -4,8 +4,8 @@ Style transfer between images was performed using the VGG19 model. The necessary
 
 |                |Files|                         |
 |----------------|-------------------------------|-----------------------------|
-|[content images](https://github.com/Onurryilmazz/Tensorflow-Style-Transfer/blob/main/c%C4%B1gl%C4%B1k.jpg "cıglık.jpg")|`content image`                        
-|[style images](https://github.com/Onurryilmazz/Tensorflow-Style-Transfer/blob/main/manzara.jpg "manzara.jpg")         |`style image` 
+|[style images](https://github.com/Onurryilmazz/Tensorflow-Style-Transfer/blob/main/c%C4%B1gl%C4%B1k.jpg "cıglık.jpg")|`style image`                        
+|[content images](https://github.com/Onurryilmazz/Tensorflow-Style-Transfer/blob/main/manzara.jpg "manzara.jpg")         |`content image` 
 |[result_images](https://github.com/Onurryilmazz/Tensorflow-Style-Transfer/blob/main/result.png "result.png")|`result image`                        
 |[source_code](https://github.com/Onurryilmazz/Tensorflow-Style-Transfer/blob/main/StyleTransfer.ipynb "StyleTransger.ipynb")        |`Source Code`
 
