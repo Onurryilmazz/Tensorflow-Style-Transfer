@@ -29,3 +29,6 @@ Note : As you can see when you examine the codes, we have uploaded our model wei
 
 ## Result
 ![result](https://github.com/Onurryilmazz/Tensorflow-Style-Transfer/blob/main/result.png)
+
+## Research Paper
+   - https://arxiv.org/pdf/1508.06576.pdf
